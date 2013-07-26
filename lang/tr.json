@@ -1,22 +1,22 @@
 {
-  "i18n-title": "Opt out of PRISM, the NSA&rsquo;s global data surveillance program - PRISM Break",
-  "i18n-meta-description": "Opt out of PRISM, the NSA&rsquo;s global data surveillance program. Stop the American government from spying on you by encrypting your communications and ending your reliance on proprietary services.",
-  "i18n-intro": "<strong>Opt out of PRISM, the NSA&rsquo;s global data surveillance program.</strong> Stop the American government from spying on you by encrypting your communications and ending your reliance on proprietary services.",
+  "i18n-title": "NSA'nın küresel veri izleme programı PRISM'den çıkın - PRISM Break",
+  "i18n-meta-description": "NSA'nın küresel veri izleme programı PRISM'den çıkın. İletişimlerinizi şifreleyerek ve sahipli hizmetlere bağlı kalmayarak Amerikan hükümetinin sizin üzerinizde casusluk yapmasını durdurun.",
+  "i18n-intro": "<strong>NSA'nın küresel veri izleme programı PRISM'den çıkın.</strong> İletişimlerinizi şifreleyerek ve sahipli hizmetlere bağlı kalmayarak Amerikan hükümetinin sizin üzerinizde casusluk yapmasını durdurun.",
 
-  "i18n-proprietary": "Proprietary",
-  "i18n-free-alternative": "Free alternative",
-  "i18n-notes": "Notes",
+  "i18n-proprietary": "Sahipli",
+  "i18n-free-alternative": "Özgür alternatif",
+  "i18n-notes": "Notlar",
 
-  "i18n-web-browser": "Web browser",
-  "i18n-torbrowser-desc": "Encrypted, anonymous web browsing powered by the Tor network.",
-  "i18n-firefox-desc": "Fast, flexible and secure web browser with a vibrant add-on ecosystem."
-  "i18n-icecat-desc": "GNU version of Firefox with a large list of libre add-ons and extra privacy features.",
-  "i18n-orbot-desc": "The features and funtionality of Tor for Android.",
-  "i18n-web-browser-note": "<p>Use a combination of <strong>Tor Browser</strong> and another free browser to surf the web. Try to use Tor for everything. Browsing the web may be slower, but it will offer you far better anonymity.</p><p>Note that signing in to PayPal or a banking website across the Tor network may trip the site's fraud protection software. Users should also be aware that signing in to HTTP (instead of HTTPS) websites may result in your credentials being captured by a malicious exit node.</p><p><strong>Mozilla Firefox</strong> uses Google search by default. Google search should be replaced by more <a href="#web-search">private alternatives</a>.</p><p>Why are Chromium, SRWare Iron, et al. not recommended on PRISM Break? <a href='https://github.com/nylira/prism-break/issues/169'>More info here.</a></p>",
+  "i18n-web-browser": "Web tarayıcı",
+  "i18n-torbrowser-desc": "Tor ağına dayalı şifreli ve anonim web tarayıcısı.",
+  "i18n-firefox-desc": "Canlı bir eklenti ekosistemine sahip hızlı, esnek ve güvenli bir web tarayıcısı."
+  "i18n-icecat-desc": "Firefox'un çok sayıda özgür eklenti ve ek gizlilik özellikleri içerenGNU versiyonu.",
+  "i18n-orbot-desc": "Android için Tor işlevi ve özellikleri.",
+  "i18n-web-browser-note": "<p>Web'i gezmek için <strong>Tor Tarayıcısı</strong> ve bir başka özgür tarayıcıyı birlikte kullanın. Herşey için Tor kullanmaya çalışın. Web'i gezmek daha yavaş olabilir, ama size çok daha iyi anonimlik sağlayacaktır.</p><p>Dikkatinize: Tor ağı üzerinden PayPal veya bir banka web sitesine giriş yapmak sitenin sahtekarlık koruma yazılımını alarma geçirebilir. Kullanıcılar ayrıca şunun farkında olmalıdır: HTTPS yerine HTTP ile giriş yapmak, kötü niyetli bir çıkış boğumunun sizin kimlik bilgilerinizi elege geçirmesine yol açabilir. </p><p><strong>Mozilla Firefox</strong> varsayılan olarak Google arama motorunu kullanır. Google arama motoru mahremiyete daha çok önem veren <a href="#web-search">alternatifler</a> ile değiştirilmelidir.</p><p>Chromium, SRWare Iron, vs. neden PRISM Break'te tavisye edilmiyor? <a href='https://github.com/nylira/prism-break/issues/169'>Daha çok bilgi burada.</a></p>",
 
-  "i18n-web-browser-plugins": "Web browser add-ons",
-  "i18n-httpseverywhere-desc": "Encrypts your communications from thousands of websites by enforcing HTTPS everywhere.",
-  "i18n-adblockedge-desc": "Block advertisements and trackers across the web with filter subscriptions.",
+  "i18n-web-browser-plugins": "Web tarayıcı eklentileri",
+  "i18n-httpseverywhere-desc": "Binlerce web sitesindeki iletişiminizi HTTPS'i heryerde mecbur tutarak şifreler.",
+  "i18n-adblockedge-desc": "Filtre abonelikleri yoluyla web çapında reklamları ve takip araçlarını engeller.",
   "i18n-disconnect-desc": "Visualize and block invisible tracking of your search and browsing history.",
   "i18n-noscript-desc": "Only enable JavaScript, Java, and Flash for sites you trust.",
   "i18n-requestpolicy-desc": "Control which cross-site requests are allowed by sites you visit.",
@@ -110,7 +110,6 @@
   "i18n-evolution-desc": "Free email and calendar application with GPG support.",
   "i18n-icedove-desc": "Free version of Mozilla Thunderbird.",
   "i18n-kontact-desc": "KDE email client with GPG support.",
-  "i18n-sylpheed-desc": "Lightweight and user-friendly e-mail client.",
   "i18n-email-clients-note": "<p><a href='http://www.enigmail.net/documentation/quickstart-ch1.php'>Here is a guide</a> to encrypting your email with <strong>Thunderbird</strong>, <strong>GNU Privacy Guard (GPG)</strong>, and <strong>Enigmail</strong>.</p><p><a href='https://en.wikipedia.org/wiki/Icedove'>Find out more</a> about the differences between <strong>Mozilla Thunderbird</strong> and <strong>Icedove</strong>.",
 
   "i18n-email-encryption": "Email encryption",
